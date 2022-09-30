@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("adding second line to print statement");
         System.out.println("adding 3rd line for printing");
         System.out.println("test teamcity trigger is working or not");
+        System.out.println("testing 2nd build in teamcity");
     }
 }
