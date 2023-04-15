@@ -1,4 +1,4 @@
-package com.gandhi.test1;
+package com.gandhi.proj1;
 
 public class Test1 {
 
